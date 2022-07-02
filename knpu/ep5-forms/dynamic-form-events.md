@@ -114,6 +114,8 @@ To fake that, inspect the element. Let's go copy a real star name - how about
 Hit update! Yes! It saved! We were able to change both the `location` *and*
 `specificLocationName` fields at the same time.
 
+
+
 And *that* means that we're ready to swap out the field dynamically with JavaScript.
 But first, we're going to leverage another form event to remove some duplication
 from our form class.
